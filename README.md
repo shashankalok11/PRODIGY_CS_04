@@ -17,7 +17,7 @@ This is a basic keylogger application with a graphical user interface (GUI) impl
 ## Installation
 
 1. Clone the Repository:
-   git clone https://github.com/shashankalok11/PRODIGY_CS_04   ```
+   git clone https://github.com/shashankalok11/PRODIGY_CS_04
 
 2. Navigate to the Project Directory:
    cd PRODIGY_CS_04
