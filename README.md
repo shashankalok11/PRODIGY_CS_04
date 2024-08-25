@@ -4,9 +4,9 @@ This is a basic keylogger application with a graphical user interface (GUI) impl
 
 ## Features
 
-- **Start**: Begins logging keystrokes.
-- **Stop**: Stops logging keystrokes.
-- **View Log**: Opens a new window to display the contents of the keylog file.
+- Start: Begins logging keystrokes.
+- Stop: Stops logging keystrokes.
+- View Log: Opens a new window to display the contents of the keylog file.
 
 ## Requirements
 
@@ -16,39 +16,31 @@ This is a basic keylogger application with a graphical user interface (GUI) impl
 
 ## Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
+1. Clone the Repository:
+   git clone https://github.com/shashankalok11/PRODIGY_CS_04   ```
 
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd your-repository
-   ```
+2. Navigate to the Project Directory:
+   cd PRODIGY_CS_04
 
-3. **Install Dependencies**:
+3. Install Dependencies:
    Ensure you have `pynput` installed. If not, install it using pip:
-   ```bash
    pip install pynput
-   ```
 
 ## Usage
 
-1. **Run the Application**:
-   ```bash
+1. Run the Application:
    python keylogger_gui.py
-   ```
 
-2. **GUI Controls**:
-   - **Start**: Click this button to begin recording keystrokes.
-   - **Stop**: Click this button to stop recording keystrokes.
-   - **View Log**: Click this button to open a new window displaying the recorded keystrokes.
+2. GUI Controls:
+   - Start: Click this button to begin recording keystrokes.
+   - Stop: Click this button to stop recording keystrokes.
+   - View Log: Click this button to open a new window displaying the recorded keystrokes.
 
 ## Ethical Considerations
 
-- **Consent**: Ensure you have explicit permission from all users whose keystrokes will be logged.
-- **Transparency**: Inform users about the keylogger and its purpose.
-- **Legal Compliance**: Follow legal regulations and data privacy laws applicable to keylogging.
+- Consent: Ensure you have explicit permission from all users whose keystrokes will be logged.
+- Transparency: Inform users about the keylogger and its purpose.
+- Legal Compliance: Follow legal regulations and data privacy laws applicable to keylogging.
 
 ## License
 
